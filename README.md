@@ -40,7 +40,7 @@ int main() {
 }
 ```
 
-### Saída:
+## Saída
 ```
 Item: Espada de Ferro | Tipo: 0
 Item destruído: Espada de Ferro
